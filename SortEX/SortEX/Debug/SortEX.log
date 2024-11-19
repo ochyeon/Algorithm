@@ -1,0 +1,3 @@
+﻿  SelectionSortEX.cpp
+C:\Users\ywj\Desktop\ochyeon\SWU\2-2\Algorithm\SortEX\SortEX\SelectionSortEX.cpp(34,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  SortEX.vcxproj -> C:\Users\ywj\Desktop\ochyeon\SWU\2-2\Algorithm\SortEX\Debug\SortEX.exe
